@@ -9,11 +9,21 @@
 
 In this project i worked on:
 <ul>
-  <li> The Behaviour of the AI <a href=""> Digital Bros Game </a><br /> </li> 
+  <li> The Behaviour of the AI</li> 
   <li> Path Finding (BFS) </li>
   <li> A basic procedural generation </li>
   <li> UI and HUD logic </li>
 </ul>
+
+
+<details><summary> Some Script's Extract </summary>
+  <p align="center">
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Hexogun/ActionContainerManager.cs"> Extract AI </a><br />
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Hexogun/BFSPathFinding.cs"> Extract Path Finding </a><br />
+  </p>
+  
+</details>
+  
 
 <p align="center">
   <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Hexogun/178946970-3063e253-8f79-4571-8638-e99eff6b6b87.png" alt="" width="720"/>
