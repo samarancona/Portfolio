@@ -17,12 +17,18 @@ In this project I worked on:
 </ul>
 
 <p align="center">
-  <img src="" alt="" width="720"/>
+  <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/spirates1..png" alt="" width="720"/>
 </p>
 
 <details><summary>Screenshot</summary>
   <p align="center">
-    <img src="" alt="" width="720"/>
-    <img src="" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-1%20(1).png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-10.png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-11.png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-2%20(1).png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-4.png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-6.png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-8.png" alt="" width="720"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Spirates/Spirates-9.png" alt="" width="720"/>
   </p>
 </details>
