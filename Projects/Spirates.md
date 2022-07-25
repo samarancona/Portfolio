@@ -21,7 +21,7 @@ In this project I worked on:
 </p>
 
 
-<b>***Spirates Build***</b>: <a href="https://bit.ly/spirates_build"></a><br/>
+<b>***Spirates Build***</b>: <a href="https://bit.ly/spirates_build"> Spirates </a><br/>
 
 <details><summary>Screenshot</summary>
   <p align="center">
