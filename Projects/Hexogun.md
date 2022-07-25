@@ -9,7 +9,7 @@
 
 In this project i worked on:
 <ul>
-  <li> The Behaviour of the AI </li>
+  <li> The Behaviour of the AI </li> <h1 align="center"> Hexogun </h1><b>Where</b>: <a href=""> Digital Bros Game </a><br />
   <li> Path Finding (BFS) </li>
   <li> A basic procedural generation </li>
   <li> UI and HUD logic </li>
