@@ -10,7 +10,7 @@
 In this project i worked on:
 <ul>
   <li> The Behaviour of the AI </li>
-  <li> Path Finding (BFS) </a></li>
+  <li> Path Finding (BFS) </a> boh</li>
   <li> A basic procedural generation </li>
   <li> UI and HUD logic </li>
 </ul>
