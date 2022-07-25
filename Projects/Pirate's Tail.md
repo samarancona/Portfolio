@@ -18,8 +18,8 @@ In this project I worked on:
 
 <details><summary> Some Script's Extract </summary>
   <p align="center">
-    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's Tail"> boh </a><br />
-    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's Tail"> boh1 </a><br />
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's%20Tail/BoardController.cs"> Extract Grid Controller </a><br />
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's%20Tail/ButtonsLevelsManager.cs"> Extract Level Unlock Button </a><br />
   </p>
   
 </details>
