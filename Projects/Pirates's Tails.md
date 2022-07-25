@@ -21,11 +21,7 @@ In this project I worked on:
 
 <details><summary>Screenshot</summary>
   <p align="center">  
-    <img src="" alt="" width="400"/> 
-    <img src="" alt="" width="400"/>  
-  </p>
-  <p align="center">
-    <img src="" alt="" width="400"/>
-    <img src="" alt="" width="400"/>
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/154039944-421adece-fbb3-4db0-be1c-477bf70110dc.png" alt="" width="400"/> 
+    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/154041153-ff3a4fd4-6c1a-4bf6-bd07-12f7d358c81f.png" alt="" width="400"/>  
   </p>
 </details>
