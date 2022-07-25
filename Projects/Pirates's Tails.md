@@ -16,7 +16,7 @@ In this project I worked on:
 </ul>
 
 <p align="center">
-  <img src="" alt="" width="720"/>
+  <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/03_Mobile_01_Pirate's%20Tail_ADV%20Image.png" alt="" width="720"/>
 </p>
 
 <details><summary>Screenshot</summary>
