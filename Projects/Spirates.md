@@ -8,12 +8,12 @@
 Devastation rages between various planetary systems, but a valiant hero and his best friend decide to embark on a journey to restore balance in the universe and become legends.</i> <br /><br />
 
 
-In this project I worked on:
+In this project I worked on (blueprint & C++) :
 <ul>
-  <li> Game phases </li>
-  <li> Tree issue spawning </li>
-  <li> Tree issue repair </li>
-  <li> Cutscenes dialogue system </li>
+  <li> Physics system </li>
+  <li> Obstacles Mechanic </li>
+  <li> Enemies (simple ai)</li>
+  <li> Level design (some levels) </li>
 </ul>
 
 <p align="center">
