@@ -7,14 +7,12 @@
 
 <i> Fight and conquer to reunify Japan in a ***real time strategy game*** with fast paced, ***autochess-like combat*** to rewrite history and become a legened...</i> <br />
 
-In this project I worked on:
+In this project i worked on:
 <ul>
-  <li> Data management </li>
-  <li> Dialogue system with <a href="https://www.inklestudios.com/ink/"> Ink </a></li>
-  <li> City places interaction </li>
-  <li> Car tools interaction </li>
+  <li> The Behaviour of the AI </li>
+  <li> Path Finding (BFS) </a></li>
+  <li> A basic procedural generation </li>
   <li> UI and HUD logic </li>
-  <li> GPS system </li>
 </ul>
 
 <p align="center">
