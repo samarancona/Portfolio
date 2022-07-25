@@ -15,6 +15,16 @@ In this project I worked on:
   <li> UI and HUD logic (shop, economy) </li>
 </ul>
 
+
+<details><summary> Some Script's Extract </summary>
+  <p align="center">
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate'sTail"> boh </a><br />
+    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate'sTail"> boh1 </a><br />
+  </p>
+  
+</details>
+
+
 <p align="center">
   <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/03_Mobile_01_Pirate's%20Tail_ADV%20Image.png" alt="" width="720"/>
 </p>
