@@ -11,8 +11,8 @@ In this project I worked on:
 <ul>
   <li> Match3 grid system </li>
   <li> Match3 combat system </li>
-  <li> Monster and structure data management </li>
-  <li> UI and HUD logic (shop, team selection, ranch) </li>
+  <li> Ability and Power Ups </li>
+  <li> UI and HUD logic (shop, economy) </li>
 </ul>
 
 <p align="center">
