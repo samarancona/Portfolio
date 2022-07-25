@@ -5,7 +5,7 @@
 <b>Genre</b>: Match3 <br />
 <b>Platform</b>: Mobile <br /><br />
 
-<i> Become a living legend in the panda-pirate world commanding your unique ship through match 3 naval battles. The sea is deep and full of treasures, all within reach of your hook and fluffy paws. </i> <br /><br />
+<i> Become a living legend in the panda-pirate world commanding your unique ship through ***match 3 naval battles***. The sea is deep and full of treasures, all within reach of your hook and fluffy paws. </i> <br /><br />
 
 In this project I worked on:
 <ul>

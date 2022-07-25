@@ -5,7 +5,7 @@
 <b>Genre</b>: Real Time Strategy Game <br />
 <b>Platform</b>: PC <br /><br />
 
-<i> Fight and conquer to reunify Japan in a real time strategy game with fast paced, autochess-like combat to rewrite history and become a legened...</i> <br />
+<i> Fight and conquer to reunify Japan in a ***real time strategy game*** with fast paced, ***autochess-like combat*** to rewrite history and become a legened...</i> <br />
 
 In this project I worked on:
 <ul>
