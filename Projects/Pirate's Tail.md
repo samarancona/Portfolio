@@ -18,20 +18,20 @@ In this project I worked on:
 
 <details><summary> Some Script's Extract </summary>
   <p align="center">
-    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's%20Tail/BoardController.cs"> Extract Grid Controller </a><br />
-    <a href="https://github.com/samarancona/ProjectsInfos/blob/main/Pirate's%20Tail/ButtonsLevelsManager.cs"> Extract Level Unlock Button </a><br />
+    <a href="https://github.com/samarancona/Portfolio/files/9206988/BoardController.txt"> Extract Grid Controller </a><br />
+    <a href="https://github.com/samarancona/Portfolio/files/9206990/ButtonsLevelsManager.txt"> Extract Level Unlock Button </a><br />
   </p>
   
 </details>
 
 
 <p align="center">
-  <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/03_Mobile_01_Pirate's%20Tail_ADV%20Image.png" alt="" width="720"/>
+  <img src="https://user-images.githubusercontent.com/73015308/181456209-88cc204d-bb10-4f6e-9c79-c1fa94741b71.png" alt="" width="720"/>
 </p>
 
 <details><summary>Screenshot</summary>
   <p align="center">  
-    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/154039944-421adece-fbb3-4db0-be1c-477bf70110dc.png" alt="" width="400"/> 
-    <img src="https://github.com/samarancona/ProjectsImmages/blob/main/Pirate's%20Tail/154041153-ff3a4fd4-6c1a-4bf6-bd07-12f7d358c81f.png" alt="" width="400"/>  
+    <img src="https://user-images.githubusercontent.com/73015308/181456238-89a77ac9-eac6-4f71-a168-3030304caf24.png" alt="" width="400"/> 
+    <img src="https://user-images.githubusercontent.com/73015308/181456262-e30799e2-8d10-4893-9e50-1377c5a45923.png" alt="" width="400"/>  
   </p>
 </details>
