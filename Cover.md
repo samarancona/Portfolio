@@ -1,6 +1,6 @@
 ### Projects
 
-                     ## 2023
+## 2023
 - <a href="https://github.com/samarancona/PortFolio/blob/main/Projects/Bloodloop.md"> Bloodloop -> TPS Hero Shooter Game  </a> 
 ## 2022
 - <a href="https://github.com/samarancona/PortFolio/blob/main/Projects/Hexogun.md"> Hexogun -> RTS Game  </a>
