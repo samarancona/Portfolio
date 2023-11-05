@@ -1,19 +1,20 @@
-<h1 align="center"> Spirates </h1>
-<b>Where</b>: <a href="https://www.vigamusacademy.com"> Vigamus Academy </a><br />
-<b>When</b>: 2020-2021 <br />
-<b>Genre</b>: Adventure game <br />
+<h1 align="center"> Bloodloop </h1>
+<b>Where</b>: <a href="https://bloodloop.org"> <b>Bloodloop</b> </a><br />
+<b>When</b>: 2023-2024 <br />
+<b>Genre</b>: TPS Hero Shooter  <br />
 <b>Platform</b>: PC <br /><br />
   
-<i> Spirates is set in a universe within a child's fantasies. The tranquility of this imaginary world, inhabited by space pirates with technologically advanced spaceships and mechas, is interrupted by an unknown threat, which ends up corrupting the most valiant captains of space.
-Devastation rages between various planetary systems, but a valiant hero and his best friend decide to embark on a journey to restore balance in the universe and become legends.</i> <br /><br />
+<i> A 5v5 tactical Hero-Shooter game, built on Unreal Engine 5, integrated with blockchain.</i> <br /><br />
 
 
 In this project I worked on (blueprint & C++) :
 <ul>
-  <li> Physics system </li>
-  <li> Obstacles Mechanic </li>
-  <li> Enemies (simple ai)</li>
-  <li> Level design (some levels) </li>
+  <li> Gameplay </li>
+  <li> User Interface </li>
+  <li> **Server-side** and **Client-side** development</li>
+  <li> Tech Design Tools</li>
+  <li> Blueprint Implementation </li>
+  <li> GAS **Gameplay Ability System** </li>
 </ul>
 
 <p align="center">
@@ -21,7 +22,7 @@ In this project I worked on (blueprint & C++) :
 </p>
 
 
-<b>***Spirates Build***</b>: <a href="https://bit.ly/spirates_build"> Spirates </a><br/>
+<b>***Bloodloop***</b>: <a href="https://bit.ly/spirates_build"> Spirates </a><br/>
 
 <details><summary>Screenshot</summary>
   <p align="center">
