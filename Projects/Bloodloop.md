@@ -1,5 +1,5 @@
 <h1 align="center"> Bloodloop </h1>
-<b>Where</b>: <a href="https://bloodloop.org"> <b>Bloodloop</b> </a><br />
+<b>Where</b>: <a href="https://www.bloodloop.com/home"> <b>Bloodloop</b> </a>   <a href="https://www.youtube.com/watch?v=hSj4-CQ8qsE"> <b>Bloodloop Trailer</b> </a>  <br />
 <b>When</b>: 2023-2024 <br />
 <b>Genre</b>: TPS Hero Shooter  <br />
 <b>Platform</b>: PC <br /><br />
