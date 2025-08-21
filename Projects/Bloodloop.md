@@ -19,3 +19,6 @@ In this project I worked on (blueprint & C++) :
 
 ![Title_Login](https://github.com/user-attachments/assets/8af4e79e-33b4-40aa-9e81-8251b9beec81)
 
+
+### OTHER INFOS IN WIP
+
