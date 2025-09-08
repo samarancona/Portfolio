@@ -7,7 +7,7 @@
 <i> A 5v5 tactical Hero-Shooter game, built on Unreal Engine 5, integrated with blockchain.</i> <br /><br />
 
 
-In this project I worked on (blueprint & C++) :
+In this project i contributed more then the 60 % of the whole development on the programming side, I worked on (blueprint & C++) :
 
 - Gameplay mechanics
 - User Interface
