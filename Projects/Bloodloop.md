@@ -26,9 +26,8 @@ In this project i contributed more then the 60 % of the whole development on the
 
 
 
-### Here Some Hero Abilities 
+<h1 align="center"> Here Some Hero Abilities </h1>  
 
----
 
 <details><summary>🗡️ ROGUE</summary>
 
